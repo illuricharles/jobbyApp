@@ -10,7 +10,7 @@
   justify-content: space-between;
   width: 90%;
 
-  padding: 15px 0 25px 0;
+  padding: 15px 0 15px 0;
 }
 
 .nav-bar-mobile-container {
@@ -81,8 +81,6 @@
 .nav-menu {
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
-  align-self: flex-end;
   list-style-type: none;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -115,8 +113,8 @@
 }
 .large-device-button-container {
   display: flex;
-  justify-content: flex-end;
-  margin-top: 10px;
+  /* justify-content: flex-end; */
+  /* margin-top: 10px; */
 }
 .logout-desktop-btn {
   font-family: 'Roboto';
